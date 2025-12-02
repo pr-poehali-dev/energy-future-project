@@ -80,12 +80,8 @@ export default function Index() {
         
         <div className="container mx-auto px-4 text-center relative z-10">
           <div className="space-y-8">
-            <h1 className="text-6xl md:text-8xl font-black text-gradient neon-glow animate-glow-pulse">
-              ЭНЕРГИЯ БУДУЩЕГО
-            </h1>
-            <p className="text-2xl md:text-3xl text-muted-foreground max-w-3xl mx-auto">
-              Перспективные энергетические технологии. Сегодня!
-            </p>
+            <h1 className="text-6xl md:text-8xl font-black text-gradient neon-glow animate-glow-pulse">ЭНЕРГИЯ БУДУЩЕГО - СЕГОДНЯ!</h1>
+            <p className="text-2xl md:text-3xl text-muted-foreground max-w-3xl mx-auto">Перспективные Энергетические Технологии</p>
             <div className="flex gap-4 justify-center items-center pt-8">
               <Button 
                 size="lg" 
