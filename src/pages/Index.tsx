@@ -39,7 +39,7 @@ export default function Index() {
     <div className="min-h-screen bg-background text-foreground">
       <nav className="fixed top-0 w-full z-50 bg-background/80 backdrop-blur-lg border-b border-border">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-gradient">ЭНЕРГИЯ</h1>
+          <h1 className="text-2xl font-bold text-slate-50">ЭНЕРГИЯ</h1>
           <div className="flex gap-6">
             <button
               onClick={() => scrollToSection('hero')}
