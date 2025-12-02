@@ -249,7 +249,7 @@ export default function Index() {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Email</p>
-                    <p className="font-medium">info@energy.tech</p>
+                    <p className="font-medium">info@novatechenergy.ru</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
