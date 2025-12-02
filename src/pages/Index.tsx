@@ -258,7 +258,7 @@ export default function Index() {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Телефон</p>
-                    <p className="font-medium">+7 495 123-45-67</p>
+                    <p className="font-medium">+7 925 108 2002</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
