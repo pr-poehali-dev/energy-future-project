@@ -267,7 +267,7 @@ export default function Index() {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Офис</p>
-                    <p className="font-medium">Москва, Сити</p>
+                    <p className="font-medium">Fh[fyutkmcr</p>
                   </div>
                 </div>
               </div>
